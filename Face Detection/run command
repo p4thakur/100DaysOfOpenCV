@@ -1,1 +1,1 @@
-python XfaceDetect.py --face detector/haarcascade_frontalface_default.xml --image images/prateek_face.jpg
+python XfaceDetect.py --f detector/haarcascade_frontalface_default.xml --image images/avengers.jpg
